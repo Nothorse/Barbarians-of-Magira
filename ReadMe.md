@@ -1,3 +1,3 @@
-## Barbarians of Magire
+## Barbarians of Magira
 
 Rollenspiel für Magira
