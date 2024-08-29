@@ -1,3 +1,9 @@
+---
+layout: page
+title: Regeln für BoM
+permalink: /regeln
+---
+
 # Barbarians of Magira
 
 Dies ist ein Versuch ein universelles Rollenspiel für Follow zu

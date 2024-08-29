@@ -1,3 +1,9 @@
+---
+layout: page
+title: Kultursteckbrief Korossos
+permalink: /korossos
+---
+
 # Kulturen Steckbrief
 
 ## Kurze Kulturbeschreibung 
