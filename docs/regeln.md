@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Regeln für BoM
 permalink: /regeln
 ---
