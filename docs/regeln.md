@@ -11,6 +11,9 @@ schaffen. Es basiert auf Einfachheit und nicht auf Detailreichtum und
 zielt damit auf die Storyteller unter den Rollenspielern ab. Ein
 Charakter ist in 15min erstellt.
 
+* Do not remove this line (it will not be displayed)
+{:toc}
+
 # Kurzfassung (für diejenigen, die Barbarians of Lemuria kennen):
 
 Es werden alle Regeln von BoL übernommen mit folgenden Ausnahmen. Die
