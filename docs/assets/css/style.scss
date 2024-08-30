@@ -6,7 +6,7 @@
 // css rules for toc
 // Adding 'Contents' headline to the TOC
 #markdown-toc::before {
-    content: "Contents";
+    content: "Inhalt";
     font-weight: bold;
 }
 
@@ -21,4 +21,5 @@
     padding: 1.5em;
     list-style: decimal;
     display: inline-block;
+    font-size: 0.8em;    
 }
