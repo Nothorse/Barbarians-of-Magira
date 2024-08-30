@@ -24,16 +24,11 @@
       {% endif %}
     </header>
     <nav>
-      {% assign mydocs = site.docs | group_by: 'category' %}
-        {% for cat in mydocs %}
-          <h2>{{ cat.name | capitalize }}</h2>
-          <ul>
-            {% assign items = cat.items | sort: 'title' %}
-            {% for item in items %}
-              <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-            {% endfor %}
-          </ul>
+      <ul>
+        {% for link in site.data.navigation %}
+          <li><a href="{{ link.url }}">{{ link.title }}</a></li>
         {% endfor %}
+      </ul>
     </nav>
     <main id="content" class="main-content" role="main">
       {{ content }}
