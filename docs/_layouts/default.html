@@ -24,7 +24,7 @@
       {% endif %}
     </header>
     <nav>
-      {% assign mydocs = site.docs | group_by: 'category' | sort: 'category' %}
+      {% assign mydocs = site.docs | group_by: 'category' %}
         {% for cat in mydocs %}
           <h2>{{ cat.name | capitalize }}</h2>
           <ul>
