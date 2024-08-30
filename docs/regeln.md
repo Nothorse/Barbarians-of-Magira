@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Regeln für BoM
+title: Regeln für Barbarians of Magira
 permalink: /regeln
 ---
 
