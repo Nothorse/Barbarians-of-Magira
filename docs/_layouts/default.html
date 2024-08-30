@@ -23,6 +23,18 @@
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
     </header>
+    <nav>
+      {% assign mydocs = site.docs | group_by: 'category' | sort: 'category' %}
+        {% for cat in mydocs %}
+          <h2>{{ cat.name | capitalize }}</h2>
+          <ul>
+            {% assign items = cat.items | sort: 'title' %}
+            {% for item in items %}
+              <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+            {% endfor %}
+          </ul>
+        {% endfor %}
+    </nav>
     <main id="content" class="main-content" role="main">
       {{ content }}
 

@@ -2,6 +2,7 @@
 layout: default
 title: Regeln für Barbarians of Magira
 permalink: /regeln
+category: regeln
 ---
 
 # Barbarians of Magira

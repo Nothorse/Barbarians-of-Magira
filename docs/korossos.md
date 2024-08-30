@@ -2,9 +2,10 @@
 layout: default
 title: Kultursteckbrief Korossos
 permalink: /korossos
+category: kultursteckbrief
 ---
 
-# Kulturen Steckbrief
+# Kulturen Steckbrief Korossos
 
 ## Kurze Kulturbeschreibung 
 
