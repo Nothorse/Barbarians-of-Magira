@@ -1,7 +1,7 @@
 ---
 ---
 // import standard theme
-@import 'jekyll-theme-cayman';
+@import "{{ site.theme }}";
 
 // css rules for toc
 // Adding 'Contents' headline to the TOC
